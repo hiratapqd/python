@@ -1,0 +1,10 @@
+('C:\\Users\\hirata\\OneDrive\\Python_Course\\AimBetter\\build\\AimBetter_ROI\\pyreadline-2.1-py3.6-win32.egg',
+ None,
+ {'*.pyd', '*.pyc', '*.py', 'EGG-INFO', '*.pyo', '*.so'},
+ 'DATA',
+ [('pyreadline-2.1-py3.4.egg-info',
+   'C:\\Users\\hirata\\OneDrive\\Python_Course\\AimBetter\\build\\AimBetter_ROI\\pyreadline-2.1-py3.6-win32.egg\\pyreadline-2.1-py3.4.egg-info',
+   'DATA'),
+  ('pyreadline\\configuration\\pyreadlineconfig.ini',
+   'C:\\Users\\hirata\\OneDrive\\Python_Course\\AimBetter\\build\\AimBetter_ROI\\pyreadline-2.1-py3.6-win32.egg\\pyreadline\\configuration\\pyreadlineconfig.ini',
+   'DATA')])
