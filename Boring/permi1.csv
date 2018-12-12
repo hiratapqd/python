@@ -1,0 +1,5 @@
+usuario, permissao,files
+user1,r,c:/csv_file/file1.txt
+user2,rw,c:/csv_file/file10.txt
+user3,full,c:/csv_file/file11.txt
+user4,r,c:/csv_file/file12.txt
